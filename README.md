@@ -11,16 +11,16 @@ for sharing wiht mr.choi
 ### 구조
 >gru-svm
 >
->models
->
->>gru_svm.py
->
->>gru_svm_llesmote.py
->
+>>models
+>>
+>>>gru_svm.py
+>>
+>>>gru_svm_llesmote.py
+>>
 >>llesmote.py
 >
->LBP_LLE_SMOTE_.py
->
->gru_svm_main.py
->
->play.sh
+>>LBP_LLE_SMOTE_.py
+>>
+>>gru_svm_main.py
+>>
+>>play.sh
