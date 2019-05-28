@@ -24,7 +24,14 @@ for sharing wiht mr.choi
 >>https://cs.nyu.edu/~roweis/lle/algorithm.html  
 >>
 >>https://excelsior-cjh.tistory.com/168
-
+> for debuging LLE
+>>https://github.com/ericjang/e2c
+>>
+>>https://www.tensorflow.org/guide/embedding
+>>
+>>https://github.com/guillaume-chevalier/GloVe-as-a-TensorFlow-Embedding-Layer
+>>
+>>
 
 - - -
 ### 구조
