@@ -14,6 +14,9 @@ for sharing wiht mr.choi
 >>gru_svm.py
 >>gru_svm_llesmote.py
 >>llesmote.py
+BREAK!
 >LBP_LLE_SMOTE_.py
+BREAK!
 >gru_svm_main.py
+BREAK!
 >play.sh
